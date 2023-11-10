@@ -28,3 +28,8 @@ image - name of image for puzzle picture (default example.png)
 algorithm - name of algorithm (default ExampleAlgorithm, others are BFS, BestFirst, AStar)
 <br>
 heuristic - name of heuristic function (default ExampleHeuristic, others are Hamming, Manhattan)
+
+<br>
+Space - pause and resume the animation
+<br>
+Enter - jump to the end of animation
